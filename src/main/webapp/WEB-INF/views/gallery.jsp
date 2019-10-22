@@ -67,13 +67,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         </li>
                        </li>
                                <li class="nav-item mr-lg-3 mt-lg-0 mt-3">
-                                 <a class="nav-link" href="gallery.html">Galeria</a>
+                                 <a class="nav-link" href="/tas/gallery">Galeria</a>
                                  </li>
                          <li class="nav-item mr-lg-3 mt-lg-0 mt-3">
-                                <a class="nav-link" href="/test">test</a>
+                                <a class="nav-link" href="/tas/test">test</a>
                                 </li>
                         <li class="nav-item mr-lg-3 mt-lg-0 mt-3">
-                                <a class="nav-link" href="/editUser">Explorar usuarios</a>
+                                <a class="nav-link" href="/tas/editUser">Explorar usuarios</a>
                                 </li>
                                <li class="nav-item mr-lg-3 mt-lg-0 mt-3">
                             <a class="nav-link" href="/tas/contact">Contactenos</a>
@@ -115,7 +115,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 </p>
                             </div>
                             <div class="gallery-grid1">
-                                <img src="../../resources/imagenes/donaciones.jpg" alt="" class="img-fluid"/>
+                                <img src="../../tas/resources/imagenes/donaciones.jpg" alt="" class="img-fluid"/>
                             </div>
 
                         </div>
@@ -123,7 +123,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <li class="col-lg-4  col-md-6">
                         <div class="img-grid">
                             <div class="gallery-grid1">
-                                <img src="../../resources/imagenes/galeria de donacion 2.jpg" alt="" class="img-fluid" />
+                                <img src="../../tas/resources/imagenes/galeria de donacion 2.jpg" alt="" class="img-fluid" />
                             </div>
                             <div class="port-desc text-center">
                                 <span class="line-wthree"></span>
@@ -142,14 +142,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 </p>
                             </div>
                             <div class="gallery-grid1">
-                                <img src="../../resources/imagenes/galeria de donacion 3.jpg" alt="" class="img-fluid" />
+                                <img src="../../tas/resources/imagenes/galeria de donacion 3.jpg" alt="" class="img-fluid" />
                             </div>
                         </div>
                     </li>
                     <li class="col-lg-4  col-md-6 my-lg-0 my-md-4">
                         <div class="img-grid">
                             <div class="gallery-grid1">
-                                <img src="../../resources/imagenes/galeria de donacion 4.jpg" alt="" class="img-fluid" />
+                                <img src="../../tas/resources/imagenes/galeria de donacion 4.jpg" alt="" class="img-fluid" />
                             </div>
                             <div class="port-desc text-center">
                                 <span class="line-wthree"></span>
@@ -193,12 +193,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 </a>
                             </li>
                             <li class="my-2">
-                                <a href="/gallery">
+                                <a href="/tas/gallery">
                                     GALERIA
                                 </a>
                             </li>
                             <li class="mb-2">
-                                <a href="/test">
+                                <a href="/tas/test">
                                     TEST
                                 </a>
                             </li>

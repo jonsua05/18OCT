@@ -35,7 +35,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <!-- //online-fonts -->
 </head>
 
-<body>
+<body >
     <!-- banner -->
 
     <section class="banner d-flex flex-column justify-content-center align-items-center">
@@ -65,11 +65,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <a class="nav-link" href="/tas/gallery">Galeria</a>
                         </li>
                         <li class="nav-item  mr-lg-3 mt-lg-0 mt-3">
-                        <a class="nav-link" href="/test">test</a>
+                        <a class="nav-link" href="/tas/test">test</a>
                         </li>
                         
                         <li class="nav-item  mr-lg-3 mt-lg-0 mt-3">
-                        <a class="nav-link" href="/editUser">Explorar usuarios</a>
+                        <a class="nav-link" href="/tas/editUser">Explorar usuarios</a>
                         </li>
                         
                         <li class="nav-item mr-lg-3 mt-lg-0 mt-3">
@@ -86,9 +86,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="banner_text_wthree_pvt text-center">
                 <h3 class="home-banner-w3">Empieza a conectar con nosotros </h3>
                 <div class="d-sm-flex justify-content-center">
-                    <button type="button" class="btn  w3ls-btn bg-theme" data-toggle="modal" aria-pressed="false"
-                        data-target="#exampleModal">login
-                    </button>
+<form action="/tas/logout" class="btn  ml-2 w3ls-btn" data-toggle="modal" method="post">
+    <button value="Logout" type="submit">salir</button>
+	</form>
                     <button type="button" class="btn  ml-2 w3ls-btn" data-toggle="modal" data-target="#exampleModal1">Registrate¡</button>
 
                 </div>
@@ -212,19 +212,21 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </div>
             <div class="wthree_pvtits-services-row row">
                 <div class="col-lg-4 col-md-6 wthree_sgrid py-sm-5 py-4">
-                    <span class="fa fa-ravelry p-sm-4 p-2"></span>
+                    <span class="fa fa-ravelry p-sm-4 p-2">
+                        
+                    </span>
                     <h4 class="my-3">Libros </h4>
-                    <img src="../../resources/imagenes/donaciones.jpg" width="300" height="200" alt=""/>
+                    <img src="../../tas/resources/imagenes/donaciones.jpg" width="300" height="200" alt=""/>
                 </div>
                 <div class="col-lg-4 col-md-6 wthree_sgrid  py-sm-5 py-4">
                     <span class="fa fa-wpexplorer p-sm-4 p-2"></span>
                     <h4 class="my-3"> Muebles y enseres </h4>
-                    <img src="../../resources/imagenes/muebles y enceres.jpg" width="300" height="200" alt=""/>
+                    <img src="../../tas/resources/imagenes/muebles y enceres.jpg" width="300" height="200" alt=""/>
                 </div>
                 <div class="col-lg-4 col-md-6 wthree_sgrid  py-sm-5 py-4">
                     <span class="fa fa-diamond p-sm-4 p-2"></span>
                     <h4 class="my-3">Utiles escolares</h4>
-                    <img src="../../resources/imagenes/utiles escolares.jpg" width="200" height="200" alt=""/>
+                    <img src="../../tas/resources/imagenes/utiles escolares.jpg" width="200" height="200" alt=""/>
                 </div>
                 </div>
                 <div class="col-lg-4 col-md-6  wthree_sgrid   py-sm-5 py-4">
@@ -256,7 +258,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <div class="card-header p-0 position-relative">
                             <a href="#exampleModal2" data-toggle="modal" aria-pressed="false" data-target="#exampleModal2"
                                 role="button">
-                                <img class="card-img-bottom" src="../../resources/imagenes/g1.jpg" alt="Card image cap">
+                                <img class="card-img-bottom" src="../../tas/resources/imagenes/g1.jpg" alt="Card image cap">
                                 <span class="post-icon bg-theme1">blog post</span>
 
                             </a>
@@ -282,7 +284,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <div class="card-header p-0 position-relative">
                             <a href="#exampleModal3" data-toggle="modal" aria-pressed="false" data-target="#exampleModal3"
                                 role="button">
-                                <img class="card-img-bottom" src="../../resources/imagenes/g2.jpg" alt="Card image cap">
+                                <img class="card-img-bottom" src="../../tas/resources/imagenes/g2.jpg" alt="Card image cap">
                                 <span class="post-icon bg-theme1">blog post</span>
                             </a>
                         </div>
@@ -307,7 +309,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <div class="card-header p-0  position-relative">
                             <a href="#exampleModal4" data-toggle="modal" aria-pressed="false" data-target="#exampleModal4"
                                 role="button">
-                                <img class="card-img-bottom" src="../../resources/imagenes/g3.jpg" alt="Card image cap">
+                                <img class="card-img-bottom" src="../../tas/resources/imagenes/g3.jpg" alt="Card image cap">
                                 <span class="post-icon bg-theme1">blog post</span>
                             </a>
                         </div>
@@ -370,7 +372,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 </a>
                             </li>
                             <li class="mb-2">
-                                <a href="#services" class="scroll">
+                                <a href="#/tas/services" class="scroll">
                                     Services
                                 </a>
                             </li>
@@ -388,7 +390,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <hr>
                         <ul class="list-w3pvtits">
                             <li>
-                                <a href="#about" class="scroll">
+                                <a href="/tas/about" class="scroll">
                                     Our Mission
                                 </a>
                             </li>
@@ -458,7 +460,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     </button>
                 </div>
                 <div class="modal-body text-center">
-                    <img src="../../resources/imagenes/g1.jpg" class="img-fluid" alt="" />
+                    <img src="../../tas/resources/imagenes/g1.jpg" class="img-fluid" alt="" />
                     <p class="text-left my-4">
                         Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur non nulla sit amet
                         nisl
@@ -483,7 +485,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 </div>
                 <div class="modal-body text-center">
 
-                    <img src="../../resources/imagenes/g2.jpg" class="img-fluid" alt="" />
+                    <img src="../../tas/resources/imagenes/g2.jpg" class="img-fluid" alt="" />
                     <p class="text-left my-4 text-white">
                         Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur non nulla sit amet
                         nisl
@@ -507,7 +509,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     </button>
                 </div>
                 <div class="modal-body text-center">
-                    <img src="../../resources/imagenes/g3.jpg" class="img-fluid" alt="" />
+                    <img src="../../tas/resources/imagenes/g3.jpg" class="img-fluid" alt="" />
                     <p class="text-left my-4 text-white">
                         Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur non nulla sit amet
                         nisl

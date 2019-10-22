@@ -66,10 +66,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                  <a class="nav-link" href="/tas/gallery">Galeria</a>
                                  </li>
                                  <li class="nav-item mr-lg-3 mt-lg-0 mt-3">
-                                <a class="nav-link" href="/test">test</a>
+                                <a class="nav-link" href="/tas/test">test</a>
                                 </li>
                                 <li class="nav-item mr-lg-3 mt-lg-0 mt-3">
-                                <a class="nav-link" href="/editUser">Explorar usuarios</a>
+                                <a class="nav-link" href="/tas/editUser">Explorar usuarios</a>
                                 </li>
                         <li class="nav-item mr-lg-3 mt-lg-0 mt-3">
                             <a class="nav-link" href="/tas/contact">Contactenos</a>
@@ -208,7 +208,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="row">
                 <div class="col-lg-3 col-sm-6 team-grids">
                     <div class="team-effect">
-                        <img src="../../resources/imagenes/donaciones.jpg" alt="img" class="img-fluid">
+                        <img src="../../tas/resources/imagenes/donaciones.jpg" alt="img" class="img-fluid">
 
 
                     </div>
@@ -221,7 +221,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 </div>
                 <div class="col-lg-3 col-sm-6 team-grids mt-sm-0 mt-5">
                     <div class="team-effect">
-                        <img src="../../resources/imagenes/muebles y enceres.jpg"alt="img" class="img-fluid">
+                        <img src="../../tas/resources/imagenes/muebles y enceres.jpg"alt="img" class="img-fluid">
 
                     </div>
                     <!-- team text -->
@@ -233,7 +233,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 </div>
                 <div class="col-lg-3 col-sm-6 team-grids mt-lg-0 mt-5">
                     <div class="team-effect">
-                        <img src="../../resources/imagenes/utiles escolares.jpg" alt="img" class="img-fluid">
+                        <img src="../../tas/resources/imagenes/utiles escolares.jpg" alt="img" class="img-fluid">
 
                     </div>
                     <!-- team text -->
@@ -246,7 +246,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 </div>
                 <div class="col-lg-3 col-sm-6 team-grids mt-lg-0 mt-5">
                     <div class="team-effect">
-                        <img src="../../resources/imagenes/footer.jpg" alt="img" class="img-fluid">
+                        <img src="../../tas/resources/imagenes/footer.jpg" alt="img" class="img-fluid">
                     </div>
                     <!-- team text -->
                     <div class="team_wthree mt-3">

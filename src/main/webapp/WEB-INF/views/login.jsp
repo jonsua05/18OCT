@@ -26,7 +26,7 @@
             background:
                 linear-gradient(rgba(15, 13, 15, 0.75),
                 rgba(15, 13, 5, 0.95)),
-                url('https://images.unsplash.com/photo-1497528892195-b4ee7ea4f8bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=450&q=80 450w') no-repeat center center;
+                url('https://images.unsplash.com/photo-1497528892195-b4ee7ea4f8bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80 750w') no-repeat center center;
             background-size: cover;
             margin-left: auto;
             margin-right: auto;

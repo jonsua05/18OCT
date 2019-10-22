@@ -66,10 +66,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                  <a class="nav-link" href="/tas/gallery">Galeria</a>
                                  </li>
                          <li class="nav-item mr-lg-3 mt-lg-0 mt-3">
-                                <a class="nav-link" href="/test">test</a>
+                                <a class="nav-link" href="/tas/test">test</a>
                                 </li>
                         <li class="nav-item mr-lg-3 mt-lg-0 mt-3">
-                                <a class="nav-link" href="/editUser">Explorar usuarios</a>
+                                <a class="nav-link" href="/tas/editUser">Explorar usuarios</a>
                                 </li>
                                <li class="nav-item mr-lg-3 mt-lg-0 mt-3">
                             <a class="nav-link" href="/tas/contact">Contactenos</a>
@@ -228,7 +228,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 </a>
                             </li>
                             <li class="my-2">
-                                <a href="/editUser" class="scroll">
+                                <a href="/tas/editUser" class="scroll">
                                     Explorar usuarios
                                 </a>
                             </li>
